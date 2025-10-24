@@ -1,0 +1,5 @@
+{
+  "name": "Contador de Calorias",
+  "description": "Um aplicativo para alunos do programa '365 dias de receitas sem açúcar, sem glúten e sem lactose' para estimar a contagem de calorias de suas refeições enviando uma foto. O aplicativo usa IA para analisar a comida e fornecer uma análise nutricional aproximada.",
+  "requestFramePermissions": []
+}
